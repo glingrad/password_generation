@@ -1,0 +1,5 @@
+F:\Programming\MyProjects\password_generation\bin\Release\net8.0-windows\publish\password_generation.exe
+F:\Programming\MyProjects\password_generation\bin\Release\net8.0-windows\publish\password_generation.dll
+F:\Programming\MyProjects\password_generation\bin\Release\net8.0-windows\publish\password_generation.deps.json
+F:\Programming\MyProjects\password_generation\bin\Release\net8.0-windows\publish\password_generation.runtimeconfig.json
+F:\Programming\MyProjects\password_generation\bin\Release\net8.0-windows\publish\password_generation.pdb
